@@ -14,7 +14,7 @@
 
  <p align="center">
     <br />
-    <a href="https://scrypto-landing-page.netlify.app/">Click here to view live project</a>
+    <a href="https://hostingslandingpage.netlify.app/">Click here to view live project</a>
   </p>
 </div>
 
@@ -44,11 +44,11 @@
 ## Screenshots
 
 #### 1. For mobile screen
-[![main page clickable image](./assets/screenshots/mobile.png)](https://scrypto-landing-page.netlify.app/)
+[![main page clickable image](./assets/screenshots/mobile.png)](https://hostingslandingpage.netlify.app/)
 
 
 #### 2. For laptop screen
-[![main page clickable image](./assets/screenshots/laptop.png)](https://scrypto-landing-page.netlify.app/)
+[![main page clickable image](./assets/screenshots/laptop.png)](https://hostingslandingpage.netlify.app/)
 
 
 <!-- Tech stack -->
@@ -164,7 +164,7 @@
 <!-- Project screenshot -->
 [e-mail]:kvimal@gmail.com
 
-[project-url]:https://scrypto-landing-page.netlify.app/
+[project-url]:https://hostingslandingpage.netlify.app/
 
 [source-code]:KRVIMAL/Live-project-11-Hosting-Landing-Page
 
